@@ -1,4 +1,4 @@
-# Kaggle_Keras_Titanic
+# Kaggle Titanic Using Keras and Tensolfow
 ### Preparing Gradution Portfolio
 
 <hr>
