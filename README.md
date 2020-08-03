@@ -3,7 +3,7 @@
 
 <hr>
 
-* Kaggle DataSet https://www.kaggle.com/heptapod/titanic
+* Kaggle DataSet URL > https://www.kaggle.com/heptapod/titanic
 * Keras + Tensolflow
 
 <hr>
